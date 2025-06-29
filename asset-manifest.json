@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Pratikkale18/Ecommerce_shopping_website/static/css/main.75780b8a.css",
-    "main.js": "/Pratikkale18/Ecommerce_shopping_website/static/js/main.e1d5708a.js",
-    "index.html": "/Pratikkale18/Ecommerce_shopping_website/index.html",
-    "main.75780b8a.css.map": "/Pratikkale18/Ecommerce_shopping_website/static/css/main.75780b8a.css.map",
-    "main.e1d5708a.js.map": "/Pratikkale18/Ecommerce_shopping_website/static/js/main.e1d5708a.js.map"
+    "main.css": "/Ecommerce_shopping_website/static/css/main.75780b8a.css",
+    "main.js": "/Ecommerce_shopping_website/static/js/main.e1d5708a.js",
+    "index.html": "/Ecommerce_shopping_website/index.html",
+    "main.75780b8a.css.map": "/Ecommerce_shopping_website/static/css/main.75780b8a.css.map",
+    "main.e1d5708a.js.map": "/Ecommerce_shopping_website/static/js/main.e1d5708a.js.map"
   },
   "entrypoints": [
     "static/css/main.75780b8a.css",
