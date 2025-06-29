@@ -2,7 +2,7 @@
   "name": "react-tailwind-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://pratikkale1018.github.io/shopping-card",
+  "homepage": "https://github.com/Pratikkale18/Ecommerce_shopping_website",
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.1",
     "react": "^18.0.0",
